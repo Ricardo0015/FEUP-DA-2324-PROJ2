@@ -1,0 +1,3 @@
+/home/ricardo/Desktop/DA/FEUP-DA-2324-PROJ2/cmake-build-debug/CMakeFiles/FEUP_DA_2324_PROJ2.dir
+/home/ricardo/Desktop/DA/FEUP-DA-2324-PROJ2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricardo/Desktop/DA/FEUP-DA-2324-PROJ2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

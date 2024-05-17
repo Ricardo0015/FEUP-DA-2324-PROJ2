@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FEUP_DA_2324_PROJ2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FEUP_DA_2324_PROJ2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FEUP_DA_2324_PROJ2-Debug-347692e18975d1fc9ceb.json",
+					"name" : "FEUP_DA_2324_PROJ2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ricardo/Desktop/DA/FEUP-DA-2324-PROJ2/cmake-build-debug",
+		"source" : "/home/ricardo/Desktop/DA/FEUP-DA-2324-PROJ2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
